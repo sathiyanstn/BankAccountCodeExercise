@@ -1,0 +1,65 @@
+[
+  {
+    "accountNumber": 1,
+    "availableBalance": 600.0,
+    "transactions": [
+      {
+        "dateTime": 1677664486650,
+        "amount": 0.0,
+        "balance": 0.0
+      },
+      {
+        "dateTime": 1677664486793,
+        "amount": 100.0,
+        "balance": 100.0
+      },
+      {
+        "dateTime": 1677664486804,
+        "amount": -50.0,
+        "balance": 50.0
+      },
+      {
+        "dateTime": 1677666367755,
+        "amount": 100.0,
+        "balance": 150.0
+      },
+      {
+        "dateTime": 1677666367755,
+        "amount": -50.0,
+        "balance": 100.0
+      },
+      {
+        "dateTime": 1677666416936,
+        "amount": 1000.0,
+        "balance": 1100.0
+      },
+      {
+        "dateTime": 1677666422005,
+        "amount": -500.0,
+        "balance": 600.0
+      }
+    ]
+  },
+  {
+    "accountNumber": 2,
+    "availableBalance": 0.0,
+    "transactions": [
+      {
+        "dateTime": 1677666367655,
+        "amount": 0.0,
+        "balance": 0.0
+      }
+    ]
+  },
+  {
+    "accountNumber": 3,
+    "availableBalance": 0.0,
+    "transactions": [
+      {
+        "dateTime": 1677666430983,
+        "amount": 0.0,
+        "balance": 0.0
+      }
+    ]
+  }
+]
